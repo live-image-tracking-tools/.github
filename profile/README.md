@@ -2,4 +2,6 @@
 
 LITT is a community organization for hosting and maintaining targeted, modular tools and libraries for tracking in microscopy data.
 
-It's litt 🔥
+You can learn more about the organization on our [website](https://live-image-tracking-tools.github.io/). 
+
+If you are interested in getting involved or contributing a package to LITT please email the [steering council](litt-steering-council@googlegroups.com). 
