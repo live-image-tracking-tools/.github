@@ -4,4 +4,4 @@ LITT is a community organization for hosting and maintaining targeted, modular t
 
 You can learn more about the organization on our [website](https://live-image-tracking-tools.github.io/). 
 
-If you are interested in getting involved or contributing a package to LITT please email the [steering council](litt-steering-council@googlegroups.com). 
+If you are interested in getting involved or contributing a package to LITT please email the [steering council](info@liveimagetrackingtools.org). 
