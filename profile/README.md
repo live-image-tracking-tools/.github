@@ -1,3 +1,5 @@
+![](LITT_HorizontalLogo_RGB.png)
+
 # Live Image Tracking Tools (LITT)
 
 LITT is a community organization for hosting and maintaining targeted, modular tools and libraries for tracking in microscopy data.
